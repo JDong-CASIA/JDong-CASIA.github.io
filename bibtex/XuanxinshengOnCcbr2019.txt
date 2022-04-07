@@ -1,0 +1,16 @@
+@incollection{XuanxinshengOnCcbr2019,
+ author = {Xuan, Xinsheng and Peng, Bo and Wang, Wei and Dong, Jing},
+ booktitle = {Chinese Conference on Biometric Recognition},
+ doi = {10.1007/978-3-030-31456-9_15},
+ eprint = {1902.11153},
+ isbn = {9783030314552},
+ issn = {16113349},
+ keywords = {Fake image detection,GAN,Image forensics},
+ month = {feb},
+ pages = {134--141},
+ publisher = {Springer},
+ title = {On the Generalization of GAN Image Forensics},
+ url = {http://link.springer.com/10.1007/978-3-030-31456-9_15},
+ volume = {11818 LNCS},
+ year = {2019}
+}

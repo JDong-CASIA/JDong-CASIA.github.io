@@ -1,0 +1,9 @@
+@article{HeziwenAnew2019,
+ author = {He, Ziwen and Wang, Wei and Xuan, Xinsheng and Dong, Jing and Tan, Tieniu},
+ eprint = {1912.10833},
+ journal = {arXiv preprint arXiv:1912.10833},
+ month = {dec},
+ title = {A New Ensemble Method for Concessively Targeted Multi-model Attack},
+ url = {http://arxiv.org/abs/1912.10833},
+ year = {2019}
+}
