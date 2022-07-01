@@ -1,0 +1,9 @@
+@article{2017Image,
+  title={Image Forensics Based on Planar Contact Constraints of 3D Objects},
+  author={ Bo, P.  and  Wei, W.  and  Jing, D.  and  Tan, T. },
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={PP},
+  number={99},
+  pages={1-1},
+  year={2017},
+}
