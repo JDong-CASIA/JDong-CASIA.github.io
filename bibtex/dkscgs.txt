@@ -1,0 +1,9 @@
+@article{王伟2020视觉对抗样本生成技术概述,
+  title={视觉对抗样本生成技术概述},
+  author={王伟 and 董晶 and 何子文 and 孙哲南},
+  journal={信息安全学报},
+  volume={5},
+  number={2},
+  pages={10},
+  year={2020},
+}

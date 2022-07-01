@@ -1,0 +1,9 @@
+@article{2021A,
+  title={A Unified Framework for High Fidelity Face Swap and Expression Reenactment},
+  author={ Peng, B.  and  Fan, H.  and  Wang, W.  and  Dong, J.  and  Lyu, S. },
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={PP},
+  number={99},
+  pages={1-1},
+  year={2021},
+}
