@@ -1,0 +1,10 @@
+@ARTICLE{10855467,
+  author={Meng, Zheling and Peng, Bo and Dong, Jing},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Latent Watermark: Inject and Detect Watermarks in Latent Diffusion Space}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-12},
+  keywords={Watermarking;Robustness;Training;Image quality;Diffusion models;Perturbation methods;Noise;Decoding;Noise reduction;Image reconstruction;Latent diffusion model;Watermark;Latent space;Image quality;Robustness},
+  doi={10.1109/TMM.2025.3535300}}
