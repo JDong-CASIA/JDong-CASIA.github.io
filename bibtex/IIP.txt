@@ -1,0 +1,8 @@
+@inproceedings{
+jiang2025imagelevel,
+title={Image-level Memorization Detection via Inversion-based Inference Perturbation},
+author={Yue Jiang and Haokun Lin and Yang Bai and Bo Peng and Zhili Liu and Yueming Lyu and Yong Yang and Xingzheng and Jing Dong},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=vwOq7twk7L}
+}
