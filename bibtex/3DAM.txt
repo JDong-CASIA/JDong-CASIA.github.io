@@ -1,0 +1,10 @@
+@ARTICLE{10167807,
+  author={Lyu, Yueming and Jiang, Yue and He, Ziwen and Peng, Bo and Liu, Yunfan and Dong, Jing},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={3D-Aware Adversarial Makeup Generation for Facial Privacy Protection}, 
+  year={2023},
+  volume={45},
+  number={11},
+  pages={13438-13453},
+  keywords={Faces;Face recognition;Three-dimensional displays;Closed box;Privacy;Solid modeling;Social networking (online);Black-box attack;face recognition;generative adversarial networks;makeup transfer;privacy protection},
+  doi={10.1109/TPAMI.2023.3290175}}
