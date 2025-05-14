@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3664647.3680748,
+author = {Jiang, Yue and Lyu, Yueming and He, Ziwen and Peng, Bo and Dong, Jing},
+title = {Mitigating Social Biases in Text-to-Image Diffusion Models via Linguistic-Aligned Attention Guidance},
+year = {2024},
+isbn = {9798400706868},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3664647.3680748},
+doi = {10.1145/3664647.3680748},
+abstract = {Recent advancements in text-to-image generative models have showcased remarkable capabilities across various tasks. However, these powerful models have revealed the inherent risks of social biases. Such biases can propagate distorted real-world perspectives and spread unforeseen prejudice and discrimination. Current debiasing methods are primarily designed for scenarios with a single individual in the image and exhibit homogenous race or gender when multiple individuals are involved, harming the diversity of social groups within the image. To address this problem, we consider the semantic consistency between text prompts and generated images in text-to-image diffusion models to identify how biases are generated. We propose a novel method to locate where the biases are based on different tokens and then mitigate them for each individual. Specifically, we introduce a Linguistic-aligned Attention Guidance module consisting of Block Voting and Linguistic Alignment, to effectively locate the semantic regions related to biases. Additionally, we employ Fair Inference in these regions to generate fair attributes across arbitrary distributions while preserving the original structural and semantic information. Extensive experiments and analyses demonstrate our method outperforms existing methods for debiasing with multiple individuals across various scenarios.},
+booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
+pages = {3391–3400},
+numpages = {10},
+keywords = {diffusion model., social biases, text-to-image generation},
+location = {Melbourne VIC, Australia},
+series = {MM '24}
+}
